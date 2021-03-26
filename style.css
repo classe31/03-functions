@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 50%;
+    margin: 150px auto;
+    padding: 15px;
+    background-color: azure;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    padding: 15px;
+    background-color: lightgray;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.box h2 {
+    margin-bottom: 10px;
+}
+
+.box-item {
+    width: 100%;
+    text-align: center;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
