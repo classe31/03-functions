@@ -7,6 +7,8 @@ var numeri = [7, 20, 19, 3, 6, 11, 8, 24];
 
 //separazionePariDispari(numeri);
 
+// Commento di test
+
 // Funzione separazionePariDispari
 // Partendo da un array di numeri li divide fra pari e dispari e li stampa in pagina
 //
